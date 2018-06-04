@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Cosas por hacer en el verano"
       href: Cosas_por_hacer_en_verano.html
+    - text: "Test"
+      href: test.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/fou-foo
