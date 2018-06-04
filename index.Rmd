@@ -1,0 +1,11 @@
+---
+
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="foo.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I like to analyze data 
+
+My full CV is available [here](files/Zabor_CV_2017_Q4.pdf)

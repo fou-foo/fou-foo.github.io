@@ -1,0 +1,16 @@
+name: "J. Antonio Garcia"
+output_dir: "."
+navbar:
+  title: "J. Antonio Garcia"
+  left:
+    - text: "Cosas por hacer en el verano"
+      href: Cosas_por_hacer_en_verano.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/fou-foo
+    - icon: fa-linkedin fa-lg
+      href: https://www.facebook.com/Foudifeomorfismo
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
