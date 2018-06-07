@@ -6,6 +6,8 @@
 
 <img src="foo.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data 
+<h1> In construction <h1/>
 
-My full CV is available [here](files/Zabor_CV_2017_Q4.pdf)
+I like to analyze data  
+
+My full CV is available [here](https://www.overleaf.com/read/hqfwnqcxxdfh)
