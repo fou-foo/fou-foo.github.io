@@ -6,7 +6,7 @@
 
 <img src="foo.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-<h1> In construction <h1/>
+# In construction 
 
 I like to analyze data  
 
