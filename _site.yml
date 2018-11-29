@@ -1,7 +1,7 @@
-name: "Edison sentado en un árbol"
+name: "Edison2 sentado en un árbol"
 output_dir: "."
 navbar:
-  title: "Edison"
+  title: "Edison2"
   left:
     - text: "Cosas por hacer en el verano"
       href: Cosas_por_hacer_en_verano.html
